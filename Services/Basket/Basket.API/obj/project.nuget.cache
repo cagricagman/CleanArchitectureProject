@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "hb12508gctk=",
+  "success": true,
+  "projectFilePath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/Basket.API.csproj",
+  "expectedPackageFiles": [
+    "/Users/cagricagman/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/Users/cagricagman/.nuget/packages/microsoft.openapi/1.6.22/microsoft.openapi.1.6.22.nupkg.sha512",
+    "/Users/cagricagman/.nuget/packages/swashbuckle.aspnetcore.swagger/7.2.0/swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "/Users/cagricagman/.nuget/packages/swashbuckle.aspnetcore.swaggergen/7.2.0/swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "/Users/cagricagman/.nuget/packages/swashbuckle.aspnetcore.swaggerui/7.2.0/swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
