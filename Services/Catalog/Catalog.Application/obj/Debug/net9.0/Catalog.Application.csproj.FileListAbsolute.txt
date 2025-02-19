@@ -13,3 +13,4 @@
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/refint/Catalog.Application.dll
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.pdb
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/ref/Catalog.Application.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.sourcelink.json

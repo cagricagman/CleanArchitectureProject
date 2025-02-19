@@ -58,3 +58,4 @@
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog.API.pdb
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog.API.genruntimeconfig.cache
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.API/obj/Debug/net9.0/ref/Catalog.API.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.API/obj/Debug/net9.0/Catalog.API.sourcelink.json
