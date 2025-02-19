@@ -1,0 +1,225 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Infrastructure/Discount.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Application/Discount.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Application/Discount.Application.csproj",
+        "projectName": "Discount.Application",
+        "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Application/Discount.Application.csproj",
+        "packagesPath": "/Users/cagricagman/.nuget/packages/",
+        "outputPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cagricagman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Core/Discount.Core.csproj": {
+                "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Core/Discount.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.67.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Core/Discount.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Core/Discount.Core.csproj",
+        "projectName": "Discount.Core",
+        "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Core/Discount.Core.csproj",
+        "packagesPath": "/Users/cagricagman/.nuget/packages/",
+        "outputPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cagricagman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Infrastructure/Discount.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Infrastructure/Discount.Infrastructure.csproj",
+        "projectName": "Discount.Infrastructure",
+        "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Infrastructure/Discount.Infrastructure.csproj",
+        "packagesPath": "/Users/cagricagman/.nuget/packages/",
+        "outputPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cagricagman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Application/Discount.Application.csproj": {
+                "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Discount/Discount.Application/Discount.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.66, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.67.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
