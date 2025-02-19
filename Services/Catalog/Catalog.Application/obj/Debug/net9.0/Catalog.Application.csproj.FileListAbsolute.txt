@@ -1,0 +1,15 @@
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/bin/Debug/net9.0/Catalog.Application.deps.json
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/bin/Debug/net9.0/Catalog.Application.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/bin/Debug/net9.0/Catalog.Application.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/bin/Debug/net9.0/Catalog.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/bin/Debug/net9.0/Catalog.Core.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.csproj.AssemblyReference.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.AssemblyInfoInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.AssemblyInfo.cs
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.csproj.CoreCompileInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog..75771DFE.Up2Date
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/refint/Catalog.Application.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/Catalog.Application.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Application/obj/Debug/net9.0/ref/Catalog.Application.dll

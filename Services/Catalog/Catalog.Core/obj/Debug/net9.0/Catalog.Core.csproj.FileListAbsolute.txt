@@ -1,0 +1,12 @@
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/bin/Debug/net9.0/Catalog.Core.deps.json
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/bin/Debug/net9.0/Catalog.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/bin/Debug/net9.0/Catalog.Core.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.csproj.AssemblyReference.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.AssemblyInfoInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.AssemblyInfo.cs
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.csproj.CoreCompileInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/refint/Catalog.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/Catalog.Core.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Catalog/Catalog.Core/obj/Debug/net9.0/ref/Catalog.Core.dll
