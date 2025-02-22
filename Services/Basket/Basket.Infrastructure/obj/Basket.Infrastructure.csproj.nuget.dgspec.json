@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[14.0.0, )"
             },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.67.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[12.4.1, )"

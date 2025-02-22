@@ -58,3 +58,10 @@
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/obj/Debug/net9.0/Basket.API.pdb
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/obj/Debug/net9.0/Basket.API.genruntimeconfig.cache
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/obj/Debug/net9.0/ref/Basket.API.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Google.Protobuf.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Grpc.Core.Api.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Grpc.Net.Client.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.API/bin/Debug/net9.0/Grpc.Net.Common.dll
