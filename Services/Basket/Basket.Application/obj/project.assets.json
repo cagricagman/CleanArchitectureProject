@@ -355,6 +355,16 @@
         "runtime": {
           "bin/placeholder/Basket.Core.dll": {}
         }
+      },
+      "EventBus.Message/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/EventBus.Message.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventBus.Message.dll": {}
+        }
       }
     }
   },
@@ -931,12 +941,18 @@
       "type": "project",
       "path": "../Basket.Core/Basket.Core.csproj",
       "msbuildProject": "../Basket.Core/Basket.Core.csproj"
+    },
+    "EventBus.Message/1.0.0": {
+      "type": "project",
+      "path": "../../../Infrastructure/EventBus.Message/EventBus.Message.csproj",
+      "msbuildProject": "../../../Infrastructure/EventBus.Message/EventBus.Message.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "AutoMapper >= 14.0.0",
       "Basket.Core >= 1.0.0",
+      "EventBus.Message >= 1.0.0",
       "Grpc.AspNetCore >= 2.67.0",
       "MediatR >= 12.4.1"
     ]
@@ -966,6 +982,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/EventBus.Message.csproj": {
+              "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/EventBus.Message.csproj"
+            },
             "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Core/Basket.Core.csproj": {
               "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Core/Basket.Core.csproj"
             }
