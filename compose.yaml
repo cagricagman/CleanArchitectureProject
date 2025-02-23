@@ -20,3 +20,9 @@ services:
     build:
       context: .
       dockerfile: Services/Discount/Discount.API/Dockerfile
+
+  ordering.api:
+    image: ordering.api
+    build:
+      context: .
+      dockerfile: Services/Ordering/Ordering.API/Dockerfile

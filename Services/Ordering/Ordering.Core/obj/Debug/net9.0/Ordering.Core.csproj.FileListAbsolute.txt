@@ -1,0 +1,12 @@
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/bin/Debug/net9.0/Ordering.Core.deps.json
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/bin/Debug/net9.0/Ordering.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/bin/Debug/net9.0/Ordering.Core.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.AssemblyInfoInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.AssemblyInfo.cs
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.csproj.CoreCompileInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.sourcelink.json
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/refint/Ordering.Core.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/Ordering.Core.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/obj/Debug/net9.0/ref/Ordering.Core.dll
