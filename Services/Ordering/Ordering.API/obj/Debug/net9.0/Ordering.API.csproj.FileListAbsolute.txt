@@ -181,3 +181,15 @@
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/obj/Debug/net9.0/Ordering.API.pdb
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/obj/Debug/net9.0/Ordering.API.genruntimeconfig.cache
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/obj/Debug/net9.0/ref/Ordering.API.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/Automatonymous.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/GreenPipes.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/MassTransit.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/MassTransit.AspNetCoreIntegration.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/MassTransit.ExtensionsDependencyInjectionIntegration.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/MassTransit.RabbitMqTransport.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/NewId.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/Newtonsoft.Json.Bson.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/RabbitMQ.Client.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/EventBus.Message.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.API/bin/Debug/net9.0/EventBus.Message.pdb

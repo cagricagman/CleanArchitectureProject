@@ -9,6 +9,7 @@
       "Ordering.Application/1.0.0": {
         "dependencies": {
           "AutoMapper": "14.0.0",
+          "EventBus.Message": "1.0.0",
           "FluentValidation": "12.0.0-preview1",
           "FluentValidation.DependencyInjectionExtensions": "12.0.0-preview1",
           "MediatR": "12.4.1",
@@ -109,6 +110,14 @@
           }
         }
       },
+      "EventBus.Message/1.0.0": {
+        "runtime": {
+          "EventBus.Message.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "Ordering.Core/1.0.0": {
         "runtime": {
           "Ordering.Core.dll": {
@@ -187,6 +196,11 @@
       "sha512": "sha512-bXJEZrW9ny8vjMF1JV253WeLhpEVzFo1lyaZu1vQ4ZxWUlVvknZ/+ftFgVheLubb4eZPSwwxBeqS1JkCOjxd8g==",
       "path": "microsoft.extensions.primitives/8.0.0",
       "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    },
+    "EventBus.Message/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Ordering.Core/1.0.0": {
       "type": "project",

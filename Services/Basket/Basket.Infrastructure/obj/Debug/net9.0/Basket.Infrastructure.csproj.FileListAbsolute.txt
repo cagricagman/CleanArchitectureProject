@@ -16,3 +16,5 @@
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Infrastructure/obj/Debug/net9.0/refint/Basket.Infrastructure.dll
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Infrastructure/obj/Debug/net9.0/Basket.Infrastructure.pdb
 /Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Infrastructure/obj/Debug/net9.0/ref/Basket.Infrastructure.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Infrastructure/bin/Debug/net9.0/EventBus.Message.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Basket/Basket.Infrastructure/bin/Debug/net9.0/EventBus.Message.pdb

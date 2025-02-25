@@ -1,0 +1,12 @@
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/bin/Debug/net9.0/EventBus.Message.deps.json
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/bin/Debug/net9.0/EventBus.Message.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/bin/Debug/net9.0/EventBus.Message.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.AssemblyInfoInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.AssemblyInfo.cs
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.csproj.CoreCompileInputs.cache
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.sourcelink.json
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/refint/EventBus.Message.dll
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/EventBus.Message.pdb
+/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/obj/Debug/net9.0/ref/EventBus.Message.dll

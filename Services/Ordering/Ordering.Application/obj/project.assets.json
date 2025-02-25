@@ -149,6 +149,16 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "EventBus.Message/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/EventBus.Message.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EventBus.Message.dll": {}
+        }
+      },
       "Ordering.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -416,6 +426,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "EventBus.Message/1.0.0": {
+      "type": "project",
+      "path": "../../../Infrastructure/EventBus.Message/EventBus.Message.csproj",
+      "msbuildProject": "../../../Infrastructure/EventBus.Message/EventBus.Message.csproj"
+    },
     "Ordering.Core/1.0.0": {
       "type": "project",
       "path": "../Ordering.Core/Ordering.Core.csproj",
@@ -425,6 +440,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "AutoMapper >= 14.0.0",
+      "EventBus.Message >= 1.0.0",
       "FluentValidation >= 12.0.0-preview1",
       "FluentValidation.DependencyInjectionExtensions >= 12.0.0-preview1",
       "MediatR >= 12.4.1",
@@ -457,6 +473,9 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/EventBus.Message.csproj": {
+              "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Infrastructure/EventBus.Message/EventBus.Message.csproj"
+            },
             "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/Ordering.Core.csproj": {
               "projectPath": "/Volumes/CAGRI/Projects/MicroserviceProject/ETicaret/Services/Ordering/Ordering.Core/Ordering.Core.csproj"
             }
